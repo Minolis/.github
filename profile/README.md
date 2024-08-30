@@ -10,8 +10,4 @@ Unsere Anfänge liegen in der Minecraft-Community, wo wir eine leidenschaftliche
 
 In unserer GitHub-Organisation finden Sie eine breite Palette von Projekten, von ursprünglichen Minecraft-Mods bis hin zu eigenständigen Spielen. Wir glauben an Open Source und freuen uns darauf, unsere Arbeit mit der Welt zu teilen.
 
-## Mitmachen
-
-Falls Sie daran interessiert sind, Teil unseres Teams zu werden oder unsere Projekte zu unterstützen, zögern Sie bitte nicht, uns zu kontaktieren oder auf offene Issues und Pull Requests zu reagieren. Gemeinsam können wir Großartiges schaffen.
-
 Vielen Dank für Ihr Interesse an Minolis. Wir freuen uns darauf, gemeinsam spannende Projekte zu entwickeln und zu teilen!
