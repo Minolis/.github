@@ -1,13 +1,13 @@
 # Willkommen bei Minolis!
 
-Ursprünglich im Jahr 2011 als blühende Minecraft-Community gegründet, hat sich Minolis seit 2016 zu einem erstklassigen Entwicklerstudio gewandelt. Unsere Reise führte uns von den Weiten der Minecraft-Welt zu aufregenden neuen Horizonten in der Spieleentwicklung.
+Minolis gibt’s schon seit 2011 – damals noch als aktive Minecraft-Community. Seitdem hat sich einiges getan: Heute sind wir eine bunt gemischte Entwicklergruppe, die gemeinsam an spannenden Softwareprojekten arbeitet. Von Minecraft aus haben wir unseren Horizont ordentlich erweitert!
 
 ## Über uns
 
-Unsere Anfänge liegen in der Minecraft-Community, wo wir eine leidenschaftliche Gruppe von Spielern und Entwicklern zusammengeführt haben. Im Jahr 2016 haben wir den Schritt gewagt, ein Entwicklerstudio zu werden, und seitdem streben wir danach, hochwertige Spiele und Projekte zu realisieren.
+Was mit einer Leidenschaft für Blöcke und Server begann, ist heute ein Ort für kreative Entwicklerideen geworden. Seit 2016 entwickeln wir gemeinsam verschiedenste Projekte – mal ernst, mal experimentell, aber immer mit Spaß an der Sache. Ob Tools, Webkram oder kleine Helferlein: Bei uns entsteht, worauf wir Lust haben.
 
 ## Unsere Projekte
 
-In unserer GitHub-Organisation finden Sie eine breite Palette von Projekten, von ursprünglichen Minecraft-Mods bis hin zu eigenständigen Spielen. Wir glauben an Open Source und freuen uns darauf, unsere Arbeit mit der Welt zu teilen.
+Auf unserem GitHub findest du alles Mögliche – von alten Minecraft-Mods bis hin zu modernen Anwendungen, Libraries und anderen nützlichen Sachen. Wir stehen auf Open Source und freuen uns, wenn unsere Projekte auch anderen weiterhelfen.
 
-Vielen Dank für Ihr Interesse an Minolis. Wir freuen uns darauf, gemeinsam spannende Projekte zu entwickeln und zu teilen!
+Schön, dass du hier bist – vielleicht entsteht ja bald was Cooles zusammen!
